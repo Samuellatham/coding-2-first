@@ -14,10 +14,10 @@
 
     
     <?php
-    echo "hooray "; 
+    /*echo "hooray "; 
     print "tim walz is a terrorist ";
     $name = $_GET['person'] ;
-    echo $name."2024";
+    echo $name."2024";*/
     ?>
 </body>
 </html>

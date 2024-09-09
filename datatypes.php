@@ -17,7 +17,7 @@
     //Float
     $name = 12.7487349;
 
-    //Boolean
+    //Boolean, removed because of error codes
     
 
     //Array
