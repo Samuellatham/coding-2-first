@@ -9,6 +9,12 @@
     <?php
   //Loops
   //WHile
+  $x = 1;
+  while($x <= 5){
+    echo "howdy<br>";
+    $x++;
+}
+
   //Do while
 $x = 1;
 do{
