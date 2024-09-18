@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>calculator</title>
-</head>
+
+<?php
+include 'includes/header.php';
+?>
 <body>
      <form> 
         <input type="text" name="num1" placeholder="Number 1">
