@@ -55,6 +55,9 @@ session_start();
         <li class="nav-item">
           <a class="nav-link" href="superglobals.php">superglobals</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.php">contact</a>
+        </li>
       </ul>
     </div>
   </div>
